@@ -3,7 +3,7 @@
 I'm a trainee software engineer and undergraduate at the Open University of Sri Lanka. My strategy for each task is to approach it with excitement and creativity, guaranteeing prompt completion and excellent outcomes.
 
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on with other content creators.
+- 👯 I Like to Contribute to Open-Source Projects
 - 📫 How to reach me: piyumikajayasiri@gmail.com
 - ⚡ Fun fact: Cooking is my passion.
 
