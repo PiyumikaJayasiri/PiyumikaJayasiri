@@ -9,6 +9,8 @@ I'm a trainee software engineer and undergraduate at the Open University of Sri 
 
 ### Trainee Software Engineer | Like to Contribute to Open-Source Projects
   [![Piyumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyumikaJayasiri)](https://github.com/PiyumikaJayasiri/github-readme-stats)
+Languages and Tools:
+android arduino bootstrap figma git html5 illustrator java javascript mongodb mysql nodejs photoshop php python react reactnative
 <!--
 **piyumikajayasiri/PiyumikaJayasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
