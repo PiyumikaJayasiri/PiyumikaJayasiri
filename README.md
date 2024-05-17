@@ -8,6 +8,6 @@ I'm a trainee software engineer and undergraduate at the Open University of Sri 
 - ⚡ Fun fact: Cooking is my passion.
 
 ### Trainee Software Engineer | Like to Contribute to Open-Source Projects
-  [![Piyumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyumikaJayasiri)](https://github.com/PiyumikaJayasiri/github-readme-stats)
+  [![Piyumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyumikaJayasiri)](https://github.com/PiyumikaJayasiri/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumikaJayasiri&langs_count=8)
 
 
